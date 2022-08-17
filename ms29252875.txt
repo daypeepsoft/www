@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "daypeep.com",
+  "Id": "5ff83960-7e0b-43e9-abf2-a086cd9f789b"
+}
