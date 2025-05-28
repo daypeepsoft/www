@@ -12,3 +12,6 @@ Toll free:  +1 (888) 975-7241
 Main:  +1 (208) 370-0930
 
 Fax: +1 (208) 692-0260
+
+___
+[Partnerships](Partnerships)
